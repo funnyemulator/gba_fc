@@ -3068,7 +3068,7 @@
 			"md5": "a5ac3c764f2594877255413b1827adf3"
 		},
 		"res/UI/Dialog.json": {
-			"md5": "5a8f92ccdc35edf17da71f5b72ac4457"
+			"md5": "7a969c884f8f77186329128e8927e143"
 		},
 		"res/UI/digital_control/.DS_Store": {
 			"md5": "64040a438a21a4784d4ec9de53b360ef"
@@ -3788,13 +3788,13 @@
 			"md5": "f69b6f8d5f61229b7fa33bca63855a9d"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "db9c8673685d5480d5435102016554b0"
+			"md5": "2c8670f8a07958bd328d9b152944a726"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
 			"md5": "717ba7d43eb0e58e3056d79e77019072"
 		},
 		"src/NES/Home/ListRomGBALayer.js": {
-			"md5": "1bb657f55fc653451264f04b7bc10eaa"
+			"md5": "87ca5d95f937b389f3f17c5ebe45ab7e"
 		},
 		"src/NES/Home/ListRomLayer.js": {
 			"md5": "383ffbcba800045c52b79844320c309a"
@@ -3839,7 +3839,7 @@
 			"md5": "7f25d89858e8cb310d566f1c7fcbc518"
 		},
 		"src/NES/UI/Dialog.js": {
-			"md5": "e26b43aad3408bdf762385f1271e6d56"
+			"md5": "fa33914ddbfa135ab4f30d176b0430fa"
 		},
 		"src/NES/UI/OptionLayer.js": {
 			"md5": "030f220e24b6f8950025b0992967ca30"
