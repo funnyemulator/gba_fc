@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/gba_fc/main/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/gba_fc/main/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/gba_fc/main/",
-	"version" : "2",
+	"version" : "3",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -3146,7 +3146,7 @@
 			"md5": "e397108334c90021ef9b65f8b4eec52c"
 		},
 		"res/UI/Home.json": {
-			"md5": "e9fa9965b851337d84e33d8ed4a79479"
+			"md5": "b7058d0e3862b3024d100de28c49a809"
 		},
 		"res/UI/HomeP.json": {
 			"md5": "050baaeb1a63b3d8d3741fc23990258c"
@@ -3212,7 +3212,7 @@
 			"md5": "efc246ed8a4f86380fe26d54578f5d7e"
 		},
 		"res/UI/StartupScene.json": {
-			"md5": "b2641c115c8aa04a1c98f132dd9708c9"
+			"md5": "f578ce1dc4a8544e93a7c97a842d39df"
 		},
 		"res/UI/store/.DS_Store": {
 			"md5": "64f9f3e2d7f7e22000a2a2b3ebdd36c3"
@@ -3782,13 +3782,13 @@
 			"md5": "6a2f104b473407b712a671a9dd9c6616"
 		},
 		"src/NES/gamedata.js": {
-			"md5": "ef549856b2724310c73c777afb469faa"
+			"md5": "360a800b1a9c5441d41b730c60f8c446"
 		},
 		"src/NES/Home/FindROMLayer.js": {
 			"md5": "f69b6f8d5f61229b7fa33bca63855a9d"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "2c8670f8a07958bd328d9b152944a726"
+			"md5": "3a5efc60d1b2c99df0c1624220c13628"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
 			"md5": "717ba7d43eb0e58e3056d79e77019072"
@@ -3797,10 +3797,10 @@
 			"md5": "87ca5d95f937b389f3f17c5ebe45ab7e"
 		},
 		"src/NES/Home/ListRomLayer.js": {
-			"md5": "383ffbcba800045c52b79844320c309a"
+			"md5": "e3bdf275f230ae7eba297db3f02df9d8"
 		},
 		"src/NES/Home/ListRomSNESLayer.js": {
-			"md5": "882bc42551aadd2855fab889540b03f8"
+			"md5": "3b966c0bf079d1c37a07c132a6efb6e3"
 		},
 		"src/NES/Home/MenuLayer.js": {
 			"md5": "a45c7d93de688f3f90e219559e40c48a"
@@ -3812,7 +3812,7 @@
 			"md5": "a0a9a7b4c095e67c4d6553768d6fa748"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "b9f64cf590a36c8f8d68c18b1dbf0273"
+			"md5": "83b042e2615f6934ea3d987733ab8877"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "c74a43dd932c868130668a658bceabcd"
@@ -3821,7 +3821,7 @@
 			"md5": "33dda69b919c6ba1f2783deb72257d8b"
 		},
 		"src/NES/logic/datamanager.js": {
-			"md5": "e4f79f7f8134e4b5443f97018de8cc2f"
+			"md5": "ac0b23a9ac8b4bfafa612fae5c45bc18"
 		},
 		"src/NES/logic/downloadMgr.js": {
 			"md5": "a0b5f4190fc5a7c4cbbef48a90e94b54"
@@ -3833,7 +3833,7 @@
 			"md5": "6f75bada53b6b9aae03ca89d7480fab7"
 		},
 		"src/NES/tracking.js": {
-			"md5": "5fdabcb1cbc0c29b1085f23fe12d5071"
+			"md5": "13cbead72fa94df009e2fa71c3fb70fd"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "7f25d89858e8cb310d566f1c7fcbc518"
